@@ -1,5 +1,5 @@
 # C Brute Forcer
-Very simplistic C bruteforcer
+Powerful, yet simplistic
 # Sources
 Added on and changed code from https://github.com/shirnschall/Bruteforce
 # Actions
