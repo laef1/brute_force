@@ -5,7 +5,7 @@ Added on and changed code from https://github.com/shirnschall/Bruteforce
 # Actions
 Uses coded wordlists instead of random characters.
 # Instructions
-You can either download the release of this or compile the source see down below
+You can either download the release of this or compile the code. **INSTRUCTIONS BELOW**
 # How to compile this (Visual Studio)
 1. Make a new C++ Project
 2. Make 2 new source files
