@@ -1,4 +1,6 @@
 # C Brute Forcer
 Very simplistic C bruteforcer
-Some code used from https://github.com/shirnschall/Bruteforce
-Uses coded in wordlists
+# Sources
+Added on and changed code from https://github.com/shirnschall/Bruteforce
+# Actions
+Uses coded in wordlists instead of random characters.
